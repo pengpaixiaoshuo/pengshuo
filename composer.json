@@ -1,0 +1,15 @@
+{
+    "name": "pengshuo/test",
+    "description": "test",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "John Smith",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
